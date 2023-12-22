@@ -1,0 +1,37 @@
+{
+  "name": "cozy-beige",
+  "icon": "icon.png",
+  "displayName": "cozy-beige",
+  "description": "A beautiful theme with a cozy beige background. Perfect for a relaxed coding session.",
+  "version": "0.0.3",
+  "publisher": "bculleec",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bculleec/cozybeige-theme"
+  },
+  "keywords": [
+    "theme",
+    "cozy theme",
+    "pink theme",
+    "beige theme",
+    "relaxed",
+    "light",
+    "warm",
+    "brown"
+  ],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cozy-beige",
+        "uiTheme": "vs",
+        "path": "./themes/cozy-beige-color-theme.json"
+      }
+    ]
+  }
+}

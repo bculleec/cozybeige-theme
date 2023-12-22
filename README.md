@@ -1,2 +1,4 @@
-# cozybeige-theme
-A theme made for VSCode.
+# cozy-beige README
+This is a theme made for VSCode.
+
+**Enjoy!**
