@@ -321,7 +321,7 @@
 			"string.quoted.single.scss"
 		  ],
 		  "settings": {
-			"foreground": "#A7A8AF"
+			"foreground": "#8B575C"
 		  }
 		},
 		{
@@ -342,7 +342,7 @@
 			"comment.block.html"
 		  ],
 		  "settings": {
-			"foreground": "#6D6F7C"
+			"foreground": "#8B575C"
 		  }
 		},
 		{
@@ -424,7 +424,7 @@
 			"punctuation.definition.string.end.html"
 		  ],
 		  "settings": {
-			"foreground": "#F4F4F4"
+			"foreground": "#8B575C"
 		  }
 		},
 		{
